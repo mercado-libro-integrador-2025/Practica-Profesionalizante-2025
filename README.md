@@ -13,11 +13,11 @@ MercadoLibro ofrece una experiencia moderna y eficiente para los usuarios, integ
 
 - Carrito de compras: selección de libros, edición de cantidades y gestión de productos antes de finalizar la compra.
 
-- Gestión de usuarios: registro, login seguro , edición de datos personales desde el perfil de usuarion y opcion de dar de baja al usuario.
+- Gestión de usuarios: registro, login seguro , edición de datos personales desde el perfil de usuarion y opción de dar de baja al usuario.
 
 - Realización de pedidos: compra de productos, selección del método de pago y confirmación de compra.
 
-- Sistema de reseñas (en desarrollo): posibilidad de valorar y dejar comentarios sobre los libros adquiridos.
+- Sistema de reseñas : posibilidad de valorar y dejar comentarios sobre los libros adquiridos.
 
  ## Tecnologías Utilizadas 💻
 - Angular (Web Frontend)
@@ -41,7 +41,7 @@ MercadoLibro ofrece una experiencia moderna y eficiente para los usuarios, integ
 - TypScript (Web Frontend)
 
 ## Requisitos de Instalación 🛠️
-### WEB
+### WEB 💻
 Para ejecutar la web en tu entorno local, sigue los siguientes pasos:
  1. Clonar el repositorio:
     ```bash
@@ -51,25 +51,25 @@ Para ejecutar la web en tu entorno local, sigue los siguientes pasos:
   Recomendamos usar Visual Studio Code
 
  3. Instalar dependencias las dependencias necesarias 
- -instala Node.js y Angular CLI.
- -Luego, dentro del directorio del proyecto, ejecuta:
+ - Instala Node.js y Angular CLI.
+ - Luego, dentro del directorio del proyecto, ejecuta:
      ```bash
     npm install
     ```
- 4. abre la carpeta backend django
- 5. crea un entorno virtual :
+ 4. Abre la carpeta backend django
+ 5. Crea un entorno virtual :
      ```bash
      python -m venv env
     source env/bin/activate  # Linux/macOS
     env\Scripts\activate     # Windows
     ```
-6. intala los requerimientos:
+6. Instala los requerimientos:
     ```bash
     pip install -r requirements.txt
       ```
 7. Levanta los servidores de Angular y Django ,ejecuta la apicacion.
 
-### APP MOBILE:
+### APP MOBILE 📱:
 Para ejecutar la aplicación mobile en tu entorno local, sigue los siguientes pasos:
   1. Clonar el repositorio:
      ```bash
@@ -89,10 +89,10 @@ Toda la documentacion se encuentra en nuestra Wiki.
 - Link repo mobile 📱: https://github.com/mercado-libro-integrador-2025/MercadoLibroMovil
 
 ## Equipo de Desarrollo: 👥
-🧑 Ñañez Nahir Nicolás
-🧑 Luna Dalla Lasta Marcelo Javier
-👩 Navarrete Romina Gabriela
-👩 Nobiltá Ivette Jael
+- 🧑 Ñañez Nahir Nicolás
+- 🧑 Luna Dalla Lasta Marcelo Javier
+- 👩 Navarrete Romina Gabriela
+- 👩 Nobiltá Ivette Jael
 
    
     
