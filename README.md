@@ -1,10 +1,10 @@
-# mercado-libro-integrador-2025 
-![logo de mercado libro](https://github.com/SharkCoders/FinalProject2023/assets/100625720/05114461-0323-4b0d-b7b0-31c4e9979fad)
+# mercado-libro-integrador-2025  ![logo de mercado libro](https://github.com/SharkCoders/FinalProject2023/assets/100625720/05114461-0323-4b0d-b7b0-31c4e9979fad)
 ## Proyecto Digital Web y Mobile
+
 ## Descripción del Proyecto 📝
 **MercadoLibro** es un proyecto desarrollado como parte del módulo Prácticas Profesionalizantes del tercer año de la carrera Técnico en Desarrollo Web y Aplicaciones Digitales, en el Instituto Superior Politécnico de Córdoba.
 
-El objetivo principal es consolidar e integrar los conocimientos adquiridos en años anteriores, mediante el desarrollo de una tienda digital de libros que combina una plataforma web y una aplicación móvil, utilizando buenas prácticas de programación y la metodología ágil Scrum.
+El objetivo principal es consolidar e integrar los conocimientos adquiridos en años anteriores, mediante el desarrollo de una tienda digital de libros que combina una plataforma web y una aplicación móvil, utilizando herramientas modernas de programación y la metodología ágil Scrum.
 
 Tanto la versión web como la versión móvil ofrecen a los usuarios una experiencia de compra moderna,fluida , accesible y segura, permitiendo explorar libros, gestionar compras y administrar sus perfiles personales,garantizando una experiencia (ux)  muy intuitiva para el usuario .
 ## Características Principales ✨
