@@ -94,6 +94,7 @@ Toda la documentacion se encuentra en nuestra Wiki.
 - 🧑 Luna Dalla Lasta Marcelo Javier
 - 👩 Navarrete Romina Gabriela
 - 👩 Nobiltá Ivette Jael
+- 🧑 Arnaudo, Octavio
 
    
     
