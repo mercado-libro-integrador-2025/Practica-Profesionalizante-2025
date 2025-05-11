@@ -42,49 +42,6 @@ MercadoLibro ofrece una experiencia moderna y eficiente para los usuarios, integ
 
 - TypScript (Web Frontend)
 
-## Requisitos de Instalación 🛠️
-### WEB 💻
-Para ejecutar la web en tu entorno local, sigue los siguientes pasos:
- 1. Clonar el repositorio:
-    ```bash
-    https://github.com/mercado-libro-integrador-2025/MercadoLibroWeb
-    ```
- 2. Abrir el proyecto en tu editor de código:
-  Recomendamos usar Visual Studio Code
-
- 3. Instalar dependencias las dependencias necesarias 
- - Instala Node.js y Angular CLI.
- - Luego, dentro del directorio del proyecto, ejecuta:
-     ```bash
-    npm install
-    ```
- 4. Abre la carpeta backend django
- 5. Crea un entorno virtual :
-     ```bash
-     python -m venv env
-    source env/bin/activate  # Linux/macOS
-    env\Scripts\activate     # Windows
-    ```
-6. Instala los requerimientos:
-    ```bash
-    pip install -r requirements.txt
-      ```
-7. Levanta los servidores de Angular y Django ,ejecuta la apicacion.
-
-### APP MOBILE 📱:
-Para ejecutar la aplicación mobile en tu entorno local, sigue los siguientes pasos:
-  1. Clonar el repositorio:
-     ```bash
-       https://github.com/mercado-libro-integrador-2025/MercadoLibroMovil
-   
-  2. Abrir el proyecto en Android Studio:
-  3. Abre Android Studio y selecciona "Open an existing project".
-  4. Navega a la carpeta donde clonaste el repositorio y selecciona la carpeta del proyecto.
-  5. Configurar el backend: Asegúrate de tener el backend en Django funcionando y correctamente configurado para interactuar con las APIs.
-  6. Correr la aplicación en un emulador o dispositivo:
-  7. Selecciona un emulador de Android o conecta un dispositivo físico a tu computadora.
-  8. Haz clic en el botón "Run" en Android Studio para ejecutar la aplicación.
-
 ## Documentación 📄 :
 Toda la documentacion se encuentra en nuestra Wiki.
 - Link repo web 💻 : https://github.com/mercado-libro-integrador-2025/MercadoLibroWeb
